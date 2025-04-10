@@ -1,0 +1,3 @@
+numero = int(input("Digite um numero para calcular a tabuada:"))
+for m in range (1,11):
+    print(f"{numero}* {m}={numero*m}")
